@@ -4,6 +4,10 @@
     font-family: raleway;
 }
 
+body {
+    background: #f3f3f3;
+}
+
 header{
     width: 100%;
     height: 400px;
